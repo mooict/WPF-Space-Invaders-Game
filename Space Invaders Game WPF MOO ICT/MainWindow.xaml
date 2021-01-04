@@ -1,0 +1,17 @@
+﻿<Window x:Class="Space_Invaders_Game_WPF_MOO_ICT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Space_Invaders_Game_WPF_MOO_ICT"
+        mc:Ignorable="d"
+        Title="Space Invaders Game MOO ICT" Height="500" Width="800">
+    <Canvas Name="myCanvas" Focusable="True" Background="Black" KeyDown="KeyIsDown" KeyUp="KeyIsUp">
+
+        <Label Name="enemiesLeft" Foreground="White" FontSize="16" FontWeight="ExtraBold">Enemies Left: 0</Label>
+
+        <Rectangle Name="player" Fill="White" Height="65" Width="55" Canvas.Left="381" Canvas.Top="394" />
+
+
+    </Canvas>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\bin\Debug\Space Invaders Game WPF MOO ICT.exe.config
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\bin\Debug\Space Invaders Game WPF MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\bin\Debug\Space Invaders Game WPF MOO ICT.pdb
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\Space Invaders Game WPF MOO ICT.csprojAssemblyReference.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\MainWindow.g.cs
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\App.g.cs
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\Space Invaders Game WPF MOO ICT_MarkupCompile.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\Space Invaders Game WPF MOO ICT_MarkupCompile.lref
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\MainWindow.baml
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\Space Invaders Game WPF MOO ICT.g.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\Space_Invaders_Game_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\Space Invaders Game WPF MOO ICT.csproj.GenerateResource.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\Space Invaders Game WPF MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\Space Invaders Game WPF MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Space Invaders Game WPF MOO ICT\Space Invaders Game WPF MOO ICT\obj\Debug\Space Invaders Game WPF MOO ICT.pdb
